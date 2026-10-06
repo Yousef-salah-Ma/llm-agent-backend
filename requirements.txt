@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+psycopg[binary]
+PyJWT
+pwdlib[argon2]
+
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+langgraph-checkpoint-postgres
+langchain-text-splitters
+
+chromadb
+sentence-transformers
+tavily-python
